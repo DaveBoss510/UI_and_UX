@@ -1,0 +1,32 @@
+/*This is modern font*/
+.font1 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*This is goofy font*/
+.font2 {
+    font-family: 'Amatic SC'; 
+    font-size: 20px;
+
+}
+
+/*This is professional font*/
+.font3 {
+    font-family: 'Adamina'; 
+    font-size: 20px;
+
+}
+
+/* This is old fashioned font */
+.font4 {
+    font-family: 'Alegreya SC';
+    font-size: 20px;
+
+}
+
+/* This is artistic font */
+
+.font5 {
+    font-family: 'fascinate'; 
+    font-size: 20px;
+}
