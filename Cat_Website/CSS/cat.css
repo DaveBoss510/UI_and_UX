@@ -1,0 +1,115 @@
+
+
+
+body{
+    background-color: #ff751a;
+    color: #00008b;
+    margin: 0;
+    
+}
+h1 {
+    font-family: Parisienne;
+    font-size: 100px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: -10px;
+    background-color: #ffff66;
+}
+
+
+
+p {
+    font-family: 'Merienda';
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+hr {
+    border-top: 5px solid #ffb3da;
+    border-radius: 10px;
+}
+
+.cat {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px #ffb3da;
+}
+
+footer {
+    background-color: #ffff66;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+.footer_text {
+    font-family: Parisienne;
+    font-size: 50px;
+    text-align: center;
+}
+
+.button {
+    font-family: Parisienne;
+    background-color: #ffff66;
+    color: #00008b;
+    font-size: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    cursor: pointer;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  /* The actual popup */
+.button .popuptext {
+    visibility: hidden;
+    width: 160px;
+
+    background-color: #ffb3da;
+    color: #ffff66;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 100px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+  }
+  
+  /* Popup arrow */
+  .button .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ffb3da transparent transparent transparent;
+  }
+  
+  /* Toggle this class - hide and show the popup */
+  .button .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+  }
+  
+  /* Add animation (fade in the popup) */
+  @-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+  }
+  
+  @keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+  }
