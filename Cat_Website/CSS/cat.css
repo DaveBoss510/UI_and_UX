@@ -13,7 +13,7 @@ h1 {
     font-weight: normal;
     text-align: center;
     margin-bottom: -10px;
-    margin-top: -10px;
+    margin-top: 10px;
     background-color: #ffff66;
 }
 
@@ -45,7 +45,7 @@ img {
 footer {
     background-color: #ffff66;
     margin-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
 }
 
 .footer_text {
@@ -58,7 +58,7 @@ footer {
     font-family: Parisienne;
     background-color: #ffff66;
     color: #00008b;
-    font-size: 40px;
+    font-size: 20px;
     padding: 10px;
     border-radius: 5px;
     margin-left: 100px;
