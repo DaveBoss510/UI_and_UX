@@ -1,0 +1,70 @@
+h1 {
+    font-family: Sue Ellen Francisco;
+    color: #606c38;
+    font-size: 75px;
+}
+
+p {
+    font-family: Sue Ellen Francisco;
+    color: #283618;
+    font-size: 27px;
+}
+
+body {
+    background-color: #dda15e;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dda15e;
+    font-family: Sue Ellen Francisco;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #606c38;
+  }
+
+  .btn-2 {
+    background: #283618;
+    background: linear-gradient(0deg, #606c38 0%, #283618 100%);
+    border: none;
+    border-radius: 10px;
+    padding: 0.5em 2em;
+    font-family: Sue Ellen Francisco;
+    color: #ffffff;
+  }
+
+  .green {
+   text-align: center;
+  }
+  .btn-2:before {
+    height: 0%;
+    width: 2px;
+  }
+  .btn-2:hover {
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+      inset -4px -4px 6px 0 rgba(255,255,255,.2),
+      inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+  }
+  
+  .audio {
+    text-align: right;
+  }
