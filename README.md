@@ -1,4 +1,4 @@
-# Dave's UI_and_UX Projects
+# Dave's User Interface and User Experience Projects
  UI and UX designer course at the Tech Academy
 
  -[Hiker Company Project](https://github.com/DaveBoss510/UI_and_UX/blob/main/canyon_hikers_project/canyon_hikers_project.html)<br>
@@ -21,3 +21,6 @@ the breakpoint for the user's device's viewport (pixel size) and instructed how 
 
 -[Three Animation Examples](https://github.com/DaveBoss510/UI_and_UX/tree/main/Animation_library_project)<br>
 I created three different animations here. Animations in button hover, changing color gradient in the background color and a "magic card."
+
+-[Adding Sound Files Project](https://github.com/DaveBoss510/UI_and_UX/blob/main/sound_project/sound_project.html)<br>
+I was tasked to add a clickable sound file to an image in a simple website. 
