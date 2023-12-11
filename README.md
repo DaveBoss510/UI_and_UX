@@ -1,7 +1,7 @@
 # Dave's UI_and_UX Projects
  UI and UX designer course at the Tech Academy
 
- [Hiker Company Project]
+ -[Hiker Company Project
  (https://github.com/DaveBoss510/UI_and_UX/blob/main/canyon_hikers_project/canyon_hikers_project.html)<br>
  This project had a psudo client that needed a simple website for their guided hiking tours. Tasks were to create a logo, use
  a relevant color pallete for a hiking company and add images, and font. 
@@ -18,5 +18,7 @@ an organized layout for users with different devices and varying screen sizes.
 -[Responsive Bootstrap Layout](https://github.com/DaveBoss510/UI_and_UX/blob/main/bootstrap%20project/responsivebootstrap.html)
 <br>
 This website is another example of a layout that reacts to screen size via a responsive layout design. I determined the
- the breakpoint for the user's device's viewport (pixel size) and instructed how the layout is organized in a specific way based
- on different screen sizes.
+the breakpoint for the user's device's viewport (pixel size) and instructed how the layout is organized in a specific way basedon different screen sizes.
+
+-[Three Animation Examples](https://github.com/DaveBoss510/UI_and_UX/tree/main/Animation_library_project)<br>
+I created three different animations here. Animations in button hover, changing color gradient in the background color and a "magic card."
