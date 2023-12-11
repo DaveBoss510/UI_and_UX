@@ -1,6 +1,10 @@
 # Dave's UI_and_UX Projects
  UI and UX designer course at the Tech Academy
 
+ -["Elegant and Joyful" Cat Website Project with JS Button feature](https://github.com/DaveBoss510/UI_and_UX/blob/main/Cat_Website/eligant_cat_website_project.html)<br>
+ This website project I was instructed to use a color palette that helped induce joy, with elegant text. I also needed 
+ to incorportate a Javascript Button feature. 
+
 -[Fluid Bootstrap Layout](https://github.com/DaveBoss510/UI_and_UX/blob/main/bootstrap%20project/responsivebootstrap.html)<br>
 This website showcases my ability to create a multiple column container website with a fluid 
 layout design. This gives the ability to change the layout structure with different viewport size (screen size), keeping
