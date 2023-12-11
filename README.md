@@ -1,7 +1,7 @@
 # Dave's UI_and_UX Projects
  UI and UX designer course at the Tech Academy
 
- -[Hiker Company Project
+ -[Hiker Company Project]
  (https://github.com/DaveBoss510/UI_and_UX/blob/main/canyon_hikers_project/canyon_hikers_project.html)<br>
  This project had a psudo client that needed a simple website for their guided hiking tours. Tasks were to create a logo, use
  a relevant color pallete for a hiking company and add images, and font. 
